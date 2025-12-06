@@ -1,2 +1,2 @@
 # My-School
-This is a try
+This is the start of my github
